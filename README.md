@@ -77,3 +77,10 @@ The course spans 16 weeks (with Week 8 as the midterm / Week 15 and 16 as the fi
 - Parameters are estimated by counting from the training data, with Laplace smoothing (adding 1 to counts) applied to prevent zero-probability issues.
 - Log probabilities are utilized during the classification process to prevent numerical underflow.
 - 📝 *Includes In-class assignment on Naive-Bayes:* Explored Gaussian Naive Bayes using the `make_blobs` dataset, focusing on visual changes in data clusters and classification performance metrics.
+
+### Week 14: OO
+- 
+
+### Week 15: Final Exam Week
+
+### Week 16: Final Exam Week
