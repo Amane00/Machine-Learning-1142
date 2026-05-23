@@ -68,7 +68,7 @@ The course spans 16 weeks (with Week 8 as the midterm / Week 15 and 16 as the fi
 - Techniques: Bagging (Bootstrap Aggregating) builds trees on bootstrap replicates to reduce variance, while Random Forests further restrict feature subsets to increase diversity. Boosting (specifically AdaBoost) iteratively emphasizes misclassified instances to improve high-bias models.
 - Deep Learning (CNNs): Convolutional Neural Networks utilize convolution filters to extract hierarchical features (edges, shapes, object parts) from images.
 - CNN Architecture: Composed of Convolutional layers, ReLU activation layers, Pooling (downsampling) layers, and Fully Connected layers.
--📝 *Includes In-class assignment on Ensemble Modelsn:* Covered VotingClassifiers, BaggingClassifier (with OOB score), Random Forest feature importance, and StackingClassifiers.
+- 📝 *Includes In-class assignment on Ensemble Modelsn:* Covered VotingClassifiers, BaggingClassifier (with OOB score), Random Forest feature importance, and StackingClassifiers.
 
 ### Week 13: Naïve Bayes Classifier
 - Probability basics are essential for machine learning, including marginalization, conditional probability, and Bayes' Rule.
