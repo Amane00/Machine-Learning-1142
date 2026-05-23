@@ -21,13 +21,13 @@ The course spans 16 weeks (with Week 8 as the midterm / Week 15 and 16 as the fi
 - Methods to avoid overfitting, including Reduced-Error Pruning and converting trees to rules.
 
 ### Week 4: Linear Regression & Regularization
-- Cost function for least squares linear regression and optimization using Gradient Descent or Closed Form solutions[cite: 8].
-- Improving learning through feature scaling and standardization to make gradient descent converge faster[cite: 8].
-- Understanding model fit (underfitting vs. overfitting) and controlling complexity using L2 Regularization[cite: 8].
-- 📝 *Includes In-class assignment on Linear Regression:* Explored model coefficients, intercepts, Sum of Squared Errors, and the impact of data generation parameters[cite: 7].
+- Cost function for least squares linear regression and optimization using Gradient Descent or Closed Form solutions.
+- Improving learning through feature scaling and standardization to make gradient descent converge faster.
+- Understanding model fit (underfitting vs. overfitting) and controlling complexity using L2 Regularization.
+- 📝 *Includes In-class assignment on Linear Regression:* Explored model coefficients, intercepts, Sum of Squared Errors, and the impact of data generation parameters.
 
 ### Week 5: Linear Classification & The Perceptron
-- Using hyperplanes for linear classification and understanding the Perceptron update rule[cite: 6].
-- The Perceptron cost function, comparing 0/1 loss with the perceptron criterion[cite: 6].
-- Differences between online and batch learning modes, and improvements like Voted or Averaged Perceptrons[cite: 6].
-- 📝 *Includes In-class assignment on Perceptron and Multilayer Perceptron:* Covered convergence conditions, handling linearly non-separable data, gradient calculations, and visualization using PCA and t-SNE[cite: 5].
+- Using hyperplanes for linear classification and understanding the Perceptron update rule.
+- The Perceptron cost function, comparing 0/1 loss with the perceptron criterion.
+- Differences between online and batch learning modes, and improvements like Voted or Averaged Perceptrons.
+- 📝 *Includes In-class assignment on Perceptron and Multilayer Perceptron:* Covered convergence conditions, handling linearly non-separable data, gradient calculations, and visualization using PCA and t-SNE.
