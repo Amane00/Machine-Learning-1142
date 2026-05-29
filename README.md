@@ -78,8 +78,11 @@ The course spans 16 weeks (with Week 8 as the midterm / Week 15 and 16 as the fi
 - Log probabilities are utilized during the classification process to prevent numerical underflow.
 - 📝 *Includes In-class assignment on Naive-Bayes:* Explored Gaussian Naive Bayes using the `make_blobs` dataset, focusing on visual changes in data clusters and classification performance metrics.
 
-### Week 14: OO
-- 
+### Week 14: Deep Learning & Reinforcement Learning
+- Regularization & Dropout: Explored techniques to penalize model complexity and prevent overfitting, including L1/L2 regularization , Dropout (randomly disabling neurons) , and Early Stopping.
+- Data Augmentation & Architecture: Learned how to artificially expand training datasets through image transformations (e.g., flipping, cropping) and reviewed the hierarchical architecture of AlexNet.
+- Transfer Learning: Discussed strategies for adapting pre-trained networks to new problems to reduce data demands , such as fine-tuning specific layers or freezing the convolutional base to act as a feature extractor.  
+- 📝 *Includes In-class assignment DDPG Reinforcement Learning: Accompanied by a practical robot arm demonstration at Prof. Humayoon's office. Explored the off-policy Actor-Critic DDPG algorithm, which is primarily designed for continuous action spaces like joint torques. Covered its deterministic policy with added noise for exploration and its use of a Replay Buffer and Target Networks for stabilization.
 
 ### Week 15: Final Exam Week
 
